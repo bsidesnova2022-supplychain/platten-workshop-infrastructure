@@ -24,7 +24,7 @@ spec:
         app: run-service
     spec:
       containers:
-      - image: public.ecr.aws/o6u7e2l7/bsidesnova2022:platten-workshop-application-e0648de6f36fc4c1e7ffb0adada92baea34ccade
+      - image: public.ecr.aws/o6u7e2l7/bsidesnova2022:platten-workshop-application-8c28b55ab15708bbd34e4aa7fc0beef4e705e70e
         imagePullPolicy: Always
         name: pause
         resources: {}
